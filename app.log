@@ -1,6 +1,6 @@
 [INFO] 2018-12-03 10:43:53,805 com.app.TestApplication main - Application is Started
 [DEBUG] 2018-12-03 10:43:53,828 com.app.TestApplication main - This is a Debug
-[INFO] 2018-12-03 10:43:53,830 com.app.TestApplication main - This is an Info
+[INFO] 2018-12-03 10:43:53,830 com.app.TestApplication main - This is an Info 
 [WARN] 2018-12-03 10:43:53,830 com.app.TestApplication main - This is a Warn
 [ERROR] 2018-12-03 10:43:53,831 com.app.TestApplication main - This is an Error
 [INFO] 2018-12-03 10:43:53,832 com.app.TestApplication main - Tomcat is Started on port : 8888
