@@ -1,0 +1,144 @@
+[INFO] 2018-12-03 10:43:53,805 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 10:43:53,828 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 10:43:53,830 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 10:43:53,830 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 10:43:53,831 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 10:43:53,832 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 10:44:31,503 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:30:11,203 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:30:11,204 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:30:11,204 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:30:11,204 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:30:11,205 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:30:11,205 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:30:12,367 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:41:54,617 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:41:54,619 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:41:54,623 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:41:54,623 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:41:54,623 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:41:54,623 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:44:39,548 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:44:39,550 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:44:39,550 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:44:39,550 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:44:39,556 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:44:39,558 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:44:47,393 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:44:47,393 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:44:47,394 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:44:47,394 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:44:47,394 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:44:47,395 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:45:16,484 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:45:16,486 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:45:16,486 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:45:16,487 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:45:16,488 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:45:16,488 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:45:20,699 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:45:20,819 com.app.userRepoImpl.UserDeptImpl findAll - @@@@@@@@@@@@@@@@@@@@resultList [com.app.model.User_Dept@5d6d8eb1, com.app.model.User_Dept@5d6d8eb1, com.app.model.User_Dept@5d6d8eb1]
+[INFO] 2018-12-03 11:46:56,483 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:46:56,484 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:46:56,484 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:46:56,485 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:46:56,485 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:46:56,487 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:48:22,535 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:48:22,536 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:48:22,538 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:48:22,539 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:48:22,539 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:48:22,539 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:48:28,271 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:48:28,283 com.app.userRepoImpl.UserDeptImpl findAll - @@@@@@@@@@@@@@@@@@@@resultList [com.app.model.User_Dept@21c093, com.app.model.User_Dept@21c093, com.app.model.User_Dept@21c093]
+[INFO] 2018-12-03 11:48:28,283 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:48:28,284 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:48:28,284 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:48:56,401 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:48:56,404 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:48:56,405 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:48:56,405 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:48:56,406 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:48:56,406 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:49:01,049 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:49:01,171 com.app.userRepoImpl.UserDeptImpl findAll - @@@@@@@@@@@@@@@@@@@@resultList [com.app.model.User_Dept@8ceb328, com.app.model.User_Dept@8ceb328, com.app.model.User_Dept@8ceb328]
+[INFO] 2018-12-03 11:49:01,172 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:49:01,172 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:49:01,172 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:52:01,840 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:52:01,841 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:52:01,841 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:52:01,842 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:52:01,842 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:52:01,843 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:52:05,414 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:53:05,279 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:53:05,279 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:53:05,279 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:53:05,279 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:53:05,279 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:53:05,279 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:53:10,098 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:53:10,106 com.app.userRepoImpl.UserDeptImpl findAll - @@@@@@@@@@@@@@@@@@@@resultList [com.app.model.User_Dept@383116b7, com.app.model.User_Dept@383116b7, com.app.model.User_Dept@383116b7]
+[INFO] 2018-12-03 11:53:10,107 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:53:10,107 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:53:10,107 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:53:41,129 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:53:41,132 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:53:41,132 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:53:41,133 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:53:41,134 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:53:41,134 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 11:53:45,683 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 11:53:45,813 com.app.userRepoImpl.UserDeptImpl findAll - @@@@@@@@@@@@@@@@@@@@resultList [com.app.model.User_Dept@4dcc0cee, com.app.model.User_Dept@4dcc0cee, com.app.model.User_Dept@4dcc0cee]
+[INFO] 2018-12-03 11:53:45,813 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:53:45,814 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:53:45,815 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 11:55:27,043 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 11:55:27,044 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 11:55:27,044 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 11:55:27,045 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 11:55:27,045 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 11:55:27,046 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 14:03:35,293 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 14:03:35,301 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 14:03:35,304 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 14:03:35,306 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 14:03:35,306 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 14:03:35,307 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 14:03:44,240 com.app.controller.UserController getUserById - Fetching User with id3
+[INFO] 2018-12-03 14:03:44,363 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@627c3313, com.app.model.User_Dept@627c3313, com.app.model.User_Dept@627c3313]
+[INFO] 2018-12-03 14:03:44,363 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:03:44,364 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:03:44,364 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:10:52,675 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 14:10:52,679 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 14:10:52,680 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 14:10:52,680 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 14:10:52,680 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 14:10:52,681 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 14:11:21,875 com.app.TestApplication main - Application is Started
+[DEBUG] 2018-12-03 14:11:21,880 com.app.TestApplication main - This is a Debug
+[INFO] 2018-12-03 14:11:21,880 com.app.TestApplication main - This is an Info
+[WARN] 2018-12-03 14:11:21,883 com.app.TestApplication main - This is a Warn
+[ERROR] 2018-12-03 14:11:21,883 com.app.TestApplication main - This is an Error
+[INFO] 2018-12-03 14:11:21,884 com.app.TestApplication main - Tomcat is Started on port : 8888
+[INFO] 2018-12-03 14:11:30,889 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@5fb1650c, com.app.model.User_Dept@5fb1650c]
+[INFO] 2018-12-03 14:11:30,889 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:11:30,890 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:11:31,302 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@3f56f737, com.app.model.User_Dept@3f56f737, com.app.model.User_Dept@3f56f737]
+[INFO] 2018-12-03 14:11:31,303 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:11:31,303 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:11:31,303 com.app.userRepoImpl.UserDeptImpl findAll - 3
+[INFO] 2018-12-03 14:11:31,370 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@782ec7eb]
+[INFO] 2018-12-03 14:11:31,371 com.app.userRepoImpl.UserDeptImpl findAll - 2
+[INFO] 2018-12-03 14:11:31,415 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@346e08c6, com.app.model.User_Dept@346e08c6]
+[INFO] 2018-12-03 14:11:31,420 com.app.userRepoImpl.UserDeptImpl findAll - 6
+[INFO] 2018-12-03 14:11:31,421 com.app.userRepoImpl.UserDeptImpl findAll - 6
+[INFO] 2018-12-03 14:11:31,464 com.app.userRepoImpl.UserDeptImpl findAll - resultList [com.app.model.User_Dept@53f534f3]
+[INFO] 2018-12-03 14:11:31,465 com.app.userRepoImpl.UserDeptImpl findAll - 6
+[INFO] 2018-12-03 14:11:31,513 com.app.userRepoImpl.UserDeptImpl findAll - resultList []
+[INFO] 2018-12-03 14:11:31,515 com.app.userRepoImpl.UserDeptImpl findAll - resultList []
+[INFO] 2018-12-03 14:11:31,517 com.app.userRepoImpl.UserDeptImpl findAll - resultList []
+[INFO] 2018-12-03 14:11:31,519 com.app.userRepoImpl.UserDeptImpl findAll - resultList []
