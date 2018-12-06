@@ -305,9 +305,6 @@ public class UserController {
 					deptResult = g.fromJson(result, Object.class);
 					obj.add(deptResult);
 			
-			
-			
-			
 			}
 		
 		
